@@ -1,0 +1,14 @@
+com\memorycardabstractfactorypattern\MemoryCardTesting.class
+com\memorycardabstractfactorypattern\GB32.class
+com\memorycardabstractfactorypattern\SD.class
+com\memorycardabstractfactorypattern\SDUC.class
+com\memorycardabstractfactorypattern\GB4USB.class
+com\memorycardabstractfactorypattern\MemoryCardFactory.class
+com\memorycardabstractfactorypattern\SDXC.class
+com\memorycardabstractfactorypattern\SDHC.class
+com\memorycardabstractfactorypattern\GB16.class
+com\memorycardabstractfactorypattern\GB64.class
+com\memorycardabstractfactorypattern\MemoryCard.class
+com\memorycardabstractfactorypattern\USB.class
+com\memorycardabstractfactorypattern\SDCard.class
+com\memorycardabstractfactorypattern\GB8.class
